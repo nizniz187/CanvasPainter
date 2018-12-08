@@ -9,7 +9,5 @@ Created in 2012
 HTML5 Canvas、JavaScript
 ### Supported Browsers
 Chrome、Firefox、IE10+
-
----
-
-[Online DEMO](https://nizniz187.github.io/CanvasPainter/)
+### Online Demo
+https://nizniz187.github.io/CanvasPainter/
