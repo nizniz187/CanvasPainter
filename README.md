@@ -12,4 +12,4 @@ Chrome、Firefox、IE10+
 
 ---
 
-[Online DEMO](http://graffii-web.appspot.com/CanvasPainter.htm)
+[Online DEMO](https://nizniz187.github.io/CanvasPainter/)
