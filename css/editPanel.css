@@ -1,0 +1,21 @@
+#editPanelDiv{
+	position:absolute;
+	display:none;
+}
+#editPanelFrame{
+	position:absolute;
+	border:1px dashed #3399FF;
+}
+#editPanelBlock{
+	position:absolute;
+}
+#editPanelCPRotate{
+	position:absolute;
+	display:none;
+}
+.editPanelCPScale{
+	display:none;
+	position:absolute;
+	border:1px solid black;
+	background-color:white;
+}

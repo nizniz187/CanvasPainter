@@ -1,0 +1,21 @@
+.colorComponent{
+	position:absolute;
+	border:1px solid #888888;
+}
+.colorElement{
+	position:absolute;
+}
+.colorInput{
+	text-align:center;
+	margin-left:10px;
+}
+#colorChooser{
+	position:absolute;
+	border:1px solid black;
+	background-color:white;
+	display:none;
+}
+#colorInfo{
+	text-align:center;
+	font-weight:bold;
+}

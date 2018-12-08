@@ -1,0 +1,11 @@
+.canvas{
+	position:absolute;
+	border:1px solid black;
+}
+#canvasTemp{
+	display:none;
+}
+#toolPathCursor{
+	position:absolute;
+	display:none;
+}
